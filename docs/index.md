@@ -9,12 +9,16 @@ An Accountant that has a passion for data science
 <a href="san21068@byui.edu">san21068@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/thiagosantos88/">LinkedIn</a>
-| <a href="/https:/github.com/thiagosantos88/">GitHub</a>
+| <a href="https:/github.com/thiagosantos88/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+
+`2010-2012`
+__FAE Business College__, Brazil
+
 
 `2019-2020`
 __Ensign College__, Salt Lake City, UT
@@ -66,7 +70,7 @@ __The Church of Jesus Christ of Latter-day Saints__, Salt Lake City, Utah
 ## Service and Work History
 
 `2022-22023`
-_Accouting Software Tutor__, BYU-Idaho
+__Accouting Software Tutor__, BYU-Idaho
 
 
 `2007-2009`
