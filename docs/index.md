@@ -66,7 +66,7 @@ __The Church of Jesus Christ of Latter-day Saints__, Salt Lake City, Utah
 ## Service and Work History
 
 `2022-22023`
-_Accouting Software Tutor__, BYU-I
+_Accouting Software Tutor__, BYU-Idaho
 
 
 `2007-2009`
